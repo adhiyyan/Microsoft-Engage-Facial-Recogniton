@@ -36,3 +36,4 @@ Run the server
 ```bash
   python manage.py runserver
 ```
+![App Screenshot](Face Recognition/static/assets/img/screenshots/Screenshot (21).png)
