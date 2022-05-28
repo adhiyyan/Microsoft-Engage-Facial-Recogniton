@@ -38,5 +38,4 @@ Run the server
 ```
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/19K0Wli2bMcy3i2NhPvwrJZu7MDL7eC9w/view?usp=sharing)
 
