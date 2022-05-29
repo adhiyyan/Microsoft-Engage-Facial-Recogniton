@@ -6,7 +6,6 @@ A Face Recognition Project used for marking attendance and Criminal Detection
 
 
 ## Prerequisites
-For Windows:
 
 Install cmake
 ```bash
