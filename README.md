@@ -37,6 +37,17 @@ Run the server
   python manage.py runserver
 ```
 ## Screenshots
-
+Home Page
 ![image](https://user-images.githubusercontent.com/78929487/170871252-4723ff5b-82ea-491c-807f-da15f9ca92bb.png)
+
+Sign Up 
+![image](https://user-images.githubusercontent.com/78929487/170871289-031321e6-4978-4b6b-acb9-d9739122630b.png)
+
+Attendance Page
+![image](https://user-images.githubusercontent.com/78929487/170871337-aacdb806-bc93-4957-89ea-7b47709a325f.png)
+
+Criminal Detection Page
+
+![image](https://user-images.githubusercontent.com/78929487/170871446-d7e9b1a8-7095-41ba-ae9c-e0f04d6d5bbf.png)
+
 
