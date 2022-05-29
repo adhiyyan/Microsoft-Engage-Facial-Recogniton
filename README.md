@@ -37,6 +37,6 @@ Run the server
   python manage.py runserver
 ```
 ## Screenshots
-![Alt text](Face Recognition/static/assets/img/screenshots/Screenshot (21).png?raw=true "Optional Title")
 
+![image](https://user-images.githubusercontent.com/78929487/170871252-4723ff5b-82ea-491c-807f-da15f9ca92bb.png)
 
