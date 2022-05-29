@@ -32,7 +32,7 @@ Install face_recognition [link](https://linktodocumentation)
   pip install face_recognition
 ```
 
-## Deployment
+## Build and Deployment
 Clone the repository 
 ```bash
   git clone https://github.com/adhiyyan/Microsoft-Engage-Facial-Recogniton.git
@@ -60,7 +60,7 @@ After that user needs to Sign Up and/or Login :
 
 ![image](https://user-images.githubusercontent.com/78929487/170871289-031321e6-4978-4b6b-acb9-d9739122630b.png)
 
-Attendance Page:
+Attendance can be marked at the Attendance Page:
 
 ![image](https://user-images.githubusercontent.com/78929487/170871337-aacdb806-bc93-4957-89ea-7b47709a325f.png)
 
