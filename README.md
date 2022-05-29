@@ -70,6 +70,16 @@ Criminal Detection Page:
 
 ![image](https://user-images.githubusercontent.com/78929487/170871446-d7e9b1a8-7095-41ba-ae9c-e0f04d6d5bbf.png)
 
+## Related
+
+Here are some related links
+
+[Face_recognition Github](https://github.com/ageitgey/face_recognition)
+[Installation Instructions](https://github.com/ageitgey/face_recognition/issues/175#issue-257710508)
+
+
+
+
 ## 🛠 Skills
 HTML,CSS,Javascript,Python...
 
