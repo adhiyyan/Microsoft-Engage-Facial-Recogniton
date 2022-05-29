@@ -75,6 +75,7 @@ Criminal Detection Page:
 Here are some related links
 
 [Face_recognition Github](https://github.com/ageitgey/face_recognition)
+and
 [Installation Instructions](https://github.com/ageitgey/face_recognition/issues/175#issue-257710508)
 
 
