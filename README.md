@@ -5,7 +5,7 @@ A Face Recognition Project used for marking attendance and Criminal Detection
 
 
 
-## Deployment
+## prerequisites
 For Windows:
 
 Install cmake
