@@ -48,17 +48,15 @@ This will give you URL of thr hosted website. By default it is:
 ```bash
   http://127.0.0.1:8000/
 ```
-
-
-
-
-
-## Screenshots
 Home Page:
 
 ![image](https://user-images.githubusercontent.com/78929487/170871252-4723ff5b-82ea-491c-807f-da15f9ca92bb.png)
 
-Sign Up :
+
+User needs to add pictures to be recognised in the Training images folder in the static directory:
+![image](https://user-images.githubusercontent.com/78929487/170872955-64655026-0412-4701-bc56-8886448be5c5.png)
+
+After that user needs to Sign Up and/or Login :
 
 ![image](https://user-images.githubusercontent.com/78929487/170871289-031321e6-4978-4b6b-acb9-d9739122630b.png)
 
@@ -69,6 +67,11 @@ Attendance Page:
 Criminal Detection Page:
 
 ![image](https://user-images.githubusercontent.com/78929487/170871446-d7e9b1a8-7095-41ba-ae9c-e0f04d6d5bbf.png)
+
+
+
+
+
 
 ## Related
 
