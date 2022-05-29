@@ -47,7 +47,7 @@ Move to cloned directory then run the following commands:
 ```
 This will give you URL of thr hosted website. By default it is:
 ```bash
-  [python manage.py runserver](http://127.0.0.1:8000/)
+  http://127.0.0.1:8000/
 ```
 
 
