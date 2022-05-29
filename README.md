@@ -70,4 +70,6 @@ Criminal Detection Page:
 
 ![image](https://user-images.githubusercontent.com/78929487/170871446-d7e9b1a8-7095-41ba-ae9c-e0f04d6d5bbf.png)
 
+## 🛠 Skills
+HTML,CSS,Javascript,Python...
 
